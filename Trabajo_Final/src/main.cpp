@@ -393,5 +393,9 @@ void funSpecial(int key, int x, int y) {
     glutPostRedisplay();
 }//687
 //comentario
+<<<<<<< Updated upstream
 //Hola Que tal 
 //comentan2
+=======
+//Hola Que t
+>>>>>>> Stashed changes
