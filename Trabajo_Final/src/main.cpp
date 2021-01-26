@@ -38,6 +38,7 @@ Model plane;
 Model sphere;
 Model cone;
 Model cylinder;
+Model gato;
 
 // Texturas (imagenes)
 Texture imgNoEmissive;
@@ -147,6 +148,7 @@ void funInit() {
     sphere.initModel("resources/models/sphere.obj");
     cone.initModel("resources/models/cone.obj");
     cylinder.initModel("resources/models/cylinder.obj");
+    gato.initModel("resources/models/gato.obj");
 
     // Texturas (imagenes)
     imgNoEmissive.initTexture("resources/textures/img1.png");
@@ -280,7 +282,8 @@ void funDisplay() {
 
     // Dibujamos la escena
     //drawSuelo(P,V,I);
-    drawObjectTex(sphere, texluna,P,V,I);
+    glm::mat4 S = glm::scale(I, glm::vec3(0.1, 0.1, 0.1));
+    drawObjectMat(gato, gold,P,V,S);
     glutSwapBuffers();
 }
 
