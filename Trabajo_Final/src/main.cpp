@@ -391,8 +391,4 @@ void funSpecial(int key, int x, int y) {
         case GLUT_KEY_LEFT:  if (desX>-1.5){desX -= 0.1;} break;
     }
     glutPostRedisplay();
-}//687
-//comentario
-//Hola Que tal 
-//comentan2
-//Hola Que t
+}
