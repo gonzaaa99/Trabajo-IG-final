@@ -41,12 +41,14 @@ Model cylinder;
 
 // Texturas (imagenes)
 Texture imgNoEmissive;
+Texture img1;
 Texture img2;
 Texture img3;
 Texture img4;
 Texture img5;
 Texture img6;
 Texture img7;
+Texture luna;
 
 // Luces y materiales
 #define   NLD 1
@@ -67,6 +69,7 @@ Material  emerald;
 Textures  texSuelo;
 Textures  texBase;
 Textures  texLuz;
+Textures  texluna;
 
 // Viewport
 int w = 600;
@@ -147,15 +150,17 @@ void funInit() {
 
     // Texturas (imagenes)
     imgNoEmissive.initTexture("resources/textures/img1.png");
+    img1.initTexture("resources/textures/img1.png");
     img2.initTexture("resources/textures/img2.png");
     img3.initTexture("resources/textures/img3.png");
     img4.initTexture("resources/textures/img4.png");
     img5.initTexture("resources/textures/img5.png");
     img6.initTexture("resources/textures/img6.png");
     img7.initTexture("resources/textures/img7.png");
+    luna.initTexture("resources/textures/luna.png");
 
     // Luz ambiental global
-    lightG.ambient        = glm::vec3(0.5, 0.5, 0.5);
+    lightG.ambient        = glm::vec3(0.7, 0.7, 0.7);
 
     // Luces direccionales
     lightD[0].direction   = glm::vec3(0.0, -1.0, 0.0);
@@ -227,6 +232,12 @@ void funInit() {
     texSuelo.normal      = img5.getTexture();;
     texSuelo.shininess   = 10.0;
 
+    texluna.diffuse     = luna.getTexture();
+    texluna.specular    = luna.getTexture();
+    texluna.emissive    = luna.getTexture();
+    texluna.normal      = img1.getTexture();;
+    texluna.shininess   = 10.0;
+
 }
 
 void funReshape(int wnew, int hnew) {
@@ -268,8 +279,8 @@ void funDisplay() {
     setLights(P,V);
 
     // Dibujamos la escena
-    drawSuelo(P,V,I);
-
+    //drawSuelo(P,V,I);
+    drawObjectTex(sphere, texluna,P,V,I);
     glutSwapBuffers();
 }
 
