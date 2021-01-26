@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Model.cpp" "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp" "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp" "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/main.cpp" "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.cpp" "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp" "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp" "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/main.cpp" "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

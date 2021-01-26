@@ -1084,7 +1084,11 @@ OpenGL/glu.h
 GL/glu.h
 -
 
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Model.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.cpp
+Model.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.h
+
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.h
 iostream
 -
 vector
@@ -1102,7 +1106,11 @@ assimp/scene.h
 assimp/postprocess.h
 -
 
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp
+Shaders.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
+
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
 iostream
 -
 fstream
@@ -1116,7 +1124,11 @@ glm/gtc/type_ptr.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Texture.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp
+Texture.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.h
+
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.h
 iostream
 -
 ogl/glew.h
@@ -1124,7 +1136,7 @@ ogl/glew.h
 freeimage/freeImage.h
 -
 
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/main.cpp
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/main.cpp
 iostream
 -
 ogl/glew.h
@@ -1132,11 +1144,11 @@ ogl/glew.h
 ogl/freeglut.h
 -
 Shaders.h
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
 Model.h
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Model.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.h
 Texture.h
-C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Texture.h
+C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.h
 sstream
 -
 

@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Trabajo_Final" targetName="Trabajo_Final" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,8 +29,37 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f4f2f86-85f1-4e86-aea7-f9d47218fea7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+    <list default="true" id="6f4f2f86-85f1-4e86-aea7-f9d47218fea7" name="Default Changelist" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/Trabajo_Final.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/Trabajo_Final.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajo_Final/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +69,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,7 +86,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/practica_3" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trabajo_Final" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Trabajo_Final" TARGET_NAME="Trabajo_Final" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Trabajo_Final" RUN_TARGET_NAME="Trabajo_Final">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -57,31 +112,84 @@
       <updated>1611675476718</updated>
       <workItem from="1611675479548" duration="304000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1611692795179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611692795179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611693232384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611693232384" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1611675782421">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611675782421" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1611675783813">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1611694822547">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611694822547" />
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611675783813" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1611675783813">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1611694822546">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611694822546" />
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611675783813" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1611675783813">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1611694822546">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611694822546" />
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611675783813" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1611675783813">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1611694822546">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611694822546" />
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611675783813" />
+    <state x="121" y="51" key="MergeDialog" timestamp="1611694547935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1611694547935" />
+    <state x="145" y="51" width="720" height="477" key="MultipleFileMergeDialog" timestamp="1611692893400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="145" y="51" width="720" height="477" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1611692893400" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1611694672199">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1611694672199" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611694668227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1611694668227" />
+    <state x="363" y="253" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1611693513246">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="253" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680@0.0.1280.680" timestamp="1611693513246" />
   </component>
 </project>

@@ -3,14 +3,14 @@
 cmake_policy(SET CMP0009 NEW)
 
 # SRC_FILES at CMakeLists.txt:12 (file)
-file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/*.cpp")
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/*.cpp")
 set(OLD_GLOB
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Model.cpp"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp"
-  "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/src/main.cpp"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.cpp"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp"
+  "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/cmake.verify_globs")
 endif()
