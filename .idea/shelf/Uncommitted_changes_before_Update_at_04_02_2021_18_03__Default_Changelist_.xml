@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_04_02_2021_18_03_[Default_Changelist]" date="1612458187836" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_02_2021_18_03_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 04/02/2021 18:03 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_02_2021_18_03_[Default_Changelist]/Trabajo_Final.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_02_2021_18_03_[Default_Changelist]/objects.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_02_2021_18_03_[Default_Changelist]/main.cpp.obj" />
+  </binary>
+</changelist>

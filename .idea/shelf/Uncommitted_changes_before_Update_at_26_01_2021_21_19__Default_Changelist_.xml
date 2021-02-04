@@ -1,0 +1,54 @@
+<changelist name="Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]" date="1611692388367" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 26/01/2021 21:19 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/a.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/binary/Trabajo_Final.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/Trabajo_Final.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/main.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/main.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Texture.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/Texture.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Model.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/Model.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/objects.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/objects.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/a1.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj" />
+    <option name="AFTER_PATH" value="Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir/src/Shaders.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_21_19_[Default_Changelist]/Shaders.cpp.obj" />
+  </binary>
+</changelist>
