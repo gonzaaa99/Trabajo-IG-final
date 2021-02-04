@@ -1084,10 +1084,6 @@ OpenGL/glu.h
 GL/glu.h
 -
 
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.cpp
-Model.h
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.h
-
 C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Model.h
 iostream
 -
@@ -1106,10 +1102,6 @@ assimp/scene.h
 assimp/postprocess.h
 -
 
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.cpp
-Shaders.h
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
-
 C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Shaders.h
 iostream
 -
@@ -1123,10 +1115,6 @@ glm/gtc/type_ptr.hpp
 -
 glm/gtc/matrix_transform.hpp
 -
-
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.cpp
-Texture.h
-C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.h
 
 C:/Users/Ines/Trabajo-IG-final/Trabajo_Final/src/Texture.h
 iostream
